@@ -1,0 +1,7 @@
+# Blender Files
+*.blend1
+*.blend2
+
+# OS X
+.DS_Store
+.Trashes
