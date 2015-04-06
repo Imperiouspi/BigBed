@@ -1,6 +1,7 @@
 # Blender Files
 *.blend1
 *.blend2
+thumbs.db
 
 # OS X
 .DS_Store
